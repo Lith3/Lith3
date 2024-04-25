@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Lith3
 - 😊 I’m Dev student
-- 🌱 I’m currently learning React
+- 🌱 My language : HTML/CSS/javaScript/React
+- I’m currently learning : SQL / Node.js
 
 
 <!---
