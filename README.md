@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lith3
 - 😊 I’m a Dev student
 - 🌱 My languages : HTML/CSS/javaScript
-- I’m currently learning : PHP
+- I’m currently learning : PHP/Symfony
 
 
 <!---
